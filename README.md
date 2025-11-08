@@ -20,6 +20,7 @@
 </div>
 
 ---
+<img width="2325" height="980" alt="image" src="https://github.com/user-attachments/assets/bbcabb63-a522-4f31-a027-4c04bb311520" />
 
 ## ✨ Features
 
